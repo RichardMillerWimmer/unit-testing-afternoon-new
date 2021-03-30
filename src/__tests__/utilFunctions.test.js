@@ -1,4 +1,4 @@
-import shortenText from '../../src/utils/functions';
+import shortenText from '../utils/functions';
 import { wordCount, attachUserName } from '../../server/utils';
 import { shortText, longText, posts, users } from './__data__/testData';
 
